@@ -1,0 +1,27 @@
+.navdarkactive {
+  background-color: #f1faee;
+  color: whitesmoke;
+}
+
+.navlightactive {
+  background-color: #121212;
+  color: whitesmoke;
+}
+
+.itemlightscroll {
+  color: aliceblue;
+}
+
+.itemlight-noscroll {
+  color: black;
+}
+
+.itemdarkscroll {
+  color: black;
+}
+
+.itemdark-noscroll {
+  color: #f1faee;
+}
+
+

@@ -1,0 +1,13 @@
+.newsitemCard{
+    width: 21rem;
+    height: 32rem;
+}
+
+.content{
+    height: 100rem;
+    border: 1px solid red;
+}
+
+.cardImage{
+    height: 13rem;
+}

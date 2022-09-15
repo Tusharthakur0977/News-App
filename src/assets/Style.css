@@ -1,0 +1,8 @@
+.newsitemCard {
+  transition: 0.5s ease;
+}
+
+.newsitemCard:hover {
+  transform: scale(1.04);
+}
+
